@@ -2,7 +2,15 @@
 
 ## Why this project
 
-This project is an exercice designed for Sensor and Sensing Technologies of Tianjin University.
+> This project is an exercice designed for Sensor and Sensing Technologies of Tianjin University.
+
+### Subject
+
+> Applying sensor knowledge for a general public use.
+
+### Our project
+
+> Our project creates an image by charting the neighbourhoods of the machine.
 
 ## Team
 
