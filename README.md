@@ -12,7 +12,9 @@ This project is an exercice designed for Sensor and Sensing Technologies of Tian
 ## Summary
 
 * [Documentations] [3]
-* [Sources] [4]
+  * [Compositions] [4]
+  * [Datasheets] [5]
+* [Sources] [6]
 
 ## How to use our Product
 
@@ -20,3 +22,5 @@ This project is an exercice designed for Sensor and Sensing Technologies of Tian
 [2]: https://github.com/elfenger
 [3]: /
 [4]: /
+[5]: /
+[6]: /
