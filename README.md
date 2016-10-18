@@ -1,30 +1,13 @@
-# Cartographer
+# Sensor Class
 
-## Why this project
+## NTC Thermistor Exercise
 
-> This project is an exercice designed for Sensor and Sensing Technologies of Tianjin University.
+> Using an Arduino, an NTC Thermistor, an Arduino Galileo and Arduino Software for calculating temperature.
 
-### Subject
+## Component of Optical Sensor & Position, Displacement and Level
 
-> Applying sensor knowledge for a general public use.
+> Giving a course about "Component of Optical Sensor" and "Position, Displacement and Level" with a group presentation.
 
-### Our project
+## Sensor Group Project
 
-> Our project creates an image by charting the neighbourhoods of the machine.
-
-## Team
-
-* [KEFIF-KADHI Redha] [1]
-* [CADENET Alyson] [2]
-
-## Summary
-
-* [Documentations] [3]
-* [Sources] [4]
-
-## How to use our Product
-
-[1]: https://github.com/InsidiousLeaf
-[2]: https://github.com/elfenger
-[3]: /Documentations/
-[4]: /Sources/
+> Choose a project using sensors and Arduino.
